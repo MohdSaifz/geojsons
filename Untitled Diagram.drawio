@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T07:45:08.456Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="d-VeIgmBz3hLPRQFiaQP" version="20.8.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-07T07:48:02.831Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="8PlG2Lxv_vN_oeNwztAb" version="20.8.16" type="github" pages="4">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1194" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -176,61 +176,61 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Mz047qzCqdbB-_1t_Xzn-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mz047qzCqdbB-_1t_Xzn-1" target="Mz047qzCqdbB-_1t_Xzn-3">
+        <mxCell id="Mz047qzCqdbB-_1t_Xzn-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Mz047qzCqdbB-_1t_Xzn-1" target="Mz047qzCqdbB-_1t_Xzn-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mz047qzCqdbB-_1t_Xzn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mz047qzCqdbB-_1t_Xzn-1" target="Mz047qzCqdbB-_1t_Xzn-11">
+        <mxCell id="Mz047qzCqdbB-_1t_Xzn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Mz047qzCqdbB-_1t_Xzn-1" target="Mz047qzCqdbB-_1t_Xzn-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mz047qzCqdbB-_1t_Xzn-1" value="Hitachi - Test&lt;br&gt;TM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mz047qzCqdbB-_1t_Xzn-1" value="Hitachi - Test&lt;br&gt;TM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mz047qzCqdbB-_1t_Xzn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mz047qzCqdbB-_1t_Xzn-2" target="Mz047qzCqdbB-_1t_Xzn-5">
+        <mxCell id="Mz047qzCqdbB-_1t_Xzn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Mz047qzCqdbB-_1t_Xzn-2" target="Mz047qzCqdbB-_1t_Xzn-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mz047qzCqdbB-_1t_Xzn-2" value="Hitachi - Prod&lt;br&gt;TM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mz047qzCqdbB-_1t_Xzn-2" value="Hitachi - Prod&lt;br&gt;TM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mz047qzCqdbB-_1t_Xzn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mz047qzCqdbB-_1t_Xzn-3" target="Mz047qzCqdbB-_1t_Xzn-7">
+        <mxCell id="Mz047qzCqdbB-_1t_Xzn-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Mz047qzCqdbB-_1t_Xzn-3" target="Mz047qzCqdbB-_1t_Xzn-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mz047qzCqdbB-_1t_Xzn-3" value="DSV - Test" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Mz047qzCqdbB-_1t_Xzn-3" value="DSV - Test" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mz047qzCqdbB-_1t_Xzn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mz047qzCqdbB-_1t_Xzn-5" target="Mz047qzCqdbB-_1t_Xzn-8">
+        <mxCell id="Mz047qzCqdbB-_1t_Xzn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Mz047qzCqdbB-_1t_Xzn-5" target="Mz047qzCqdbB-_1t_Xzn-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Mz047qzCqdbB-_1t_Xzn-5" value="DSV - Prod" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Mz047qzCqdbB-_1t_Xzn-5" value="DSV - Prod" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mz047qzCqdbB-_1t_Xzn-7" value="&lt;ul style=&quot;margin-bottom: 0cm; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; margin-top: 0cm;&quot; type=&quot;disc&quot;&gt;&lt;li style=&quot;margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif; color: rgb(0, 0, 0);&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;6404252547 // Hitachi Energy Portugal, S.A&lt;/span&gt;&lt;span lang=&quot;EN-AU&quot;&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif; color: rgb(0, 0, 0);&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;6408508965 // Hitachi Energy Spain S.A.U.&lt;/span&gt;&lt;span lang=&quot;EN-AU&quot;&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif; color: rgb(0, 0, 0);&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;6409624539 // Hitachi Energy Schweiz AG&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mz047qzCqdbB-_1t_Xzn-7" value="&lt;ul style=&quot;margin-bottom: 0cm; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; margin-top: 0cm;&quot; type=&quot;disc&quot;&gt;&lt;li style=&quot;margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif; color: rgb(0, 0, 0);&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;6404252547 // Hitachi Energy Portugal, S.A&lt;/span&gt;&lt;span lang=&quot;EN-AU&quot;&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif; color: rgb(0, 0, 0);&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;6408508965 // Hitachi Energy Spain S.A.U.&lt;/span&gt;&lt;span lang=&quot;EN-AU&quot;&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif; color: rgb(0, 0, 0);&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;6409624539 // Hitachi Energy Schweiz AG&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="210" width="330" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Mz047qzCqdbB-_1t_Xzn-8" value="&lt;ul style=&quot;margin-bottom: 0cm; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; margin-top: 0cm;&quot; type=&quot;disc&quot;&gt;&lt;li style=&quot;margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif; color: rgb(0, 0, 0);&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;6404252547 // Hitachi Energy Portugal, S.A&lt;/span&gt;&lt;span lang=&quot;EN-AU&quot;&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif; color: rgb(0, 0, 0);&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;6408508965 // Hitachi Energy Spain S.A.U.&lt;/span&gt;&lt;span lang=&quot;EN-AU&quot;&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif; color: rgb(0, 0, 0);&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;6409624539 // Hitachi Energy Schweiz AG&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mz047qzCqdbB-_1t_Xzn-8" value="&lt;ul style=&quot;margin-bottom: 0cm; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; margin-top: 0cm;&quot; type=&quot;disc&quot;&gt;&lt;li style=&quot;margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif; color: rgb(0, 0, 0);&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;6404252547 // Hitachi Energy Portugal, S.A&lt;/span&gt;&lt;span lang=&quot;EN-AU&quot;&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif; color: rgb(0, 0, 0);&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;6408508965 // Hitachi Energy Spain S.A.U.&lt;/span&gt;&lt;span lang=&quot;EN-AU&quot;&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0cm; font-size: 11pt; font-family: Calibri, sans-serif; color: rgb(0, 0, 0);&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;6409624539 // Hitachi Energy Schweiz AG&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="350" width="330" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Mz047qzCqdbB-_1t_Xzn-11" value="BP1- DSV" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mz047qzCqdbB-_1t_Xzn-11" value="BP1- DSV" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="90" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mz047qzCqdbB-_1t_Xzn-14" value="BP2- DSV" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mz047qzCqdbB-_1t_Xzn-14" value="BP2- DSV" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="205" y="90" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mz047qzCqdbB-_1t_Xzn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mz047qzCqdbB-_1t_Xzn-1" target="Mz047qzCqdbB-_1t_Xzn-14">
+        <mxCell id="Mz047qzCqdbB-_1t_Xzn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Mz047qzCqdbB-_1t_Xzn-1" target="Mz047qzCqdbB-_1t_Xzn-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="210" as="sourcePoint" />
             <mxPoint x="210" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mz047qzCqdbB-_1t_Xzn-16" value="BP3- DSV" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mz047qzCqdbB-_1t_Xzn-16" value="BP3- DSV" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="80" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mz047qzCqdbB-_1t_Xzn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mz047qzCqdbB-_1t_Xzn-1" target="Mz047qzCqdbB-_1t_Xzn-16">
+        <mxCell id="Mz047qzCqdbB-_1t_Xzn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Mz047qzCqdbB-_1t_Xzn-1" target="Mz047qzCqdbB-_1t_Xzn-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="200" as="sourcePoint" />
             <mxPoint x="310" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mz047qzCqdbB-_1t_Xzn-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="Mz047qzCqdbB-_1t_Xzn-18" target="Mz047qzCqdbB-_1t_Xzn-3">
+        <mxCell id="Mz047qzCqdbB-_1t_Xzn-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="Mz047qzCqdbB-_1t_Xzn-18" target="Mz047qzCqdbB-_1t_Xzn-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="273" y="30" />
@@ -240,16 +240,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mz047qzCqdbB-_1t_Xzn-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;size=0;" vertex="1" parent="1">
+        <mxCell id="Mz047qzCqdbB-_1t_Xzn-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;size=0;" parent="1" vertex="1">
           <mxGeometry x="262.5" y="-152.5" width="20" height="425" as="geometry" />
         </mxCell>
-        <mxCell id="Mz047qzCqdbB-_1t_Xzn-20" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 13.3333px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; caret-color: rgb(0, 0, 0); background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Hitachi Energy Portugal, S.A&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mz047qzCqdbB-_1t_Xzn-20" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 13.3333px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; caret-color: rgb(0, 0, 0); background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Hitachi Energy Portugal, S.A&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-70" y="60" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mz047qzCqdbB-_1t_Xzn-21" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 13.3333px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; caret-color: rgb(0, 0, 0); background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Hitachi Energy Spain S.A.U.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mz047qzCqdbB-_1t_Xzn-21" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 13.3333px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; caret-color: rgb(0, 0, 0); background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Hitachi Energy Spain S.A.U.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="60" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mz047qzCqdbB-_1t_Xzn-23" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 13.3333px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; caret-color: rgb(0, 0, 0); background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Hitachi Energy Schweiz AG&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mz047qzCqdbB-_1t_Xzn-23" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 13.3333px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; caret-color: rgb(0, 0, 0); background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Hitachi Energy Schweiz AG&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="50" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
@@ -271,8 +271,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lnfV4eOgTLNb5UAoOZJp-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="490" width="150" height="170" as="geometry" />
+        <mxCell id="lnfV4eOgTLNb5UAoOZJp-14" value="Object store / HANA" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="80" y="540" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="lnfV4eOgTLNb5UAoOZJp-1" value="Standards in BNAC&lt;br&gt;(Latest - Backward compatible)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="150" width="120" height="60" as="geometry" />
@@ -286,21 +286,24 @@
         <mxCell id="lnfV4eOgTLNb5UAoOZJp-4" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lnfV4eOgTLNb5UAoOZJp-18" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lnfV4eOgTLNb5UAoOZJp-2" target="lnfV4eOgTLNb5UAoOZJp-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="245" y="300" as="sourcePoint" />
+        <mxCell id="NG46HgbZhHXavyWuLdWj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lnfV4eOgTLNb5UAoOZJp-2" target="lnfV4eOgTLNb5UAoOZJp-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NG46HgbZhHXavyWuLdWj-2" value="Schema publication&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NG46HgbZhHXavyWuLdWj-1">
+          <mxGeometry x="-0.5303" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lnfV4eOgTLNb5UAoOZJp-5" value="Versions" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="250" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lnfV4eOgTLNb5UAoOZJp-7" value="ADX Schema - V1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="590" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lnfV4eOgTLNb5UAoOZJp-8" value="ADX Schema - V2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="620" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lnfV4eOgTLNb5UAoOZJp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lnfV4eOgTLNb5UAoOZJp-9">
+        <mxCell id="lnfV4eOgTLNb5UAoOZJp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lnfV4eOgTLNb5UAoOZJp-9" target="lnfV4eOgTLNb5UAoOZJp-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="530" as="targetPoint" />
           </mxGeometry>
@@ -315,7 +318,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lnfV4eOgTLNb5UAoOZJp-11" value="ADX data - V1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="364" width="120" height="40" as="geometry" />
+          <mxGeometry x="365" y="720" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lnfV4eOgTLNb5UAoOZJp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lnfV4eOgTLNb5UAoOZJp-15" target="lnfV4eOgTLNb5UAoOZJp-1">
           <mxGeometry relative="1" as="geometry">
@@ -323,6 +326,11 @@
               <mxPoint x="800" y="360" />
               <mxPoint x="800" y="360" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NG46HgbZhHXavyWuLdWj-3" value="Referencing latest standards&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lnfV4eOgTLNb5UAoOZJp-17">
+          <mxGeometry x="-0.0928" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lnfV4eOgTLNb5UAoOZJp-15" value="AIN" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
