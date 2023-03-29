@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T05:28:00.066Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="u1MmfYg2KWwS26p4M5LR" version="21.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-29T22:58:30.452Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="JsCTy2tdntsrDO5yF_Za" version="21.1.1" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Equipment Creation">
     <mxGraphModel dx="1950" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
             <mxPoint x="320" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tjPfh_lF-oSobos7F5bc-2" value="Fetch BPs GUID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tjPfh_lF-oSobos7F5bc-1">
+        <mxCell id="tjPfh_lF-oSobos7F5bc-2" value="&lt;a href=&quot;https://api.sap.com/api/CompanyProfileAPI/path/get_company_profile_invitees&quot;&gt;Fetch BPs GUID&lt;/a&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tjPfh_lF-oSobos7F5bc-1">
           <mxGeometry x="0.0105" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
